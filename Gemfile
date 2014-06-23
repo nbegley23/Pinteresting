@@ -28,6 +28,13 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass'
 
 gem 'devise'
+
+gem 'paperclip', github: 'thoughtbot/paperclip'
+
+gem 'jquery-turbolinks'
+
+gem 'masonry-rails', '~> 0.2.0'
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
