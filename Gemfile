@@ -1,26 +1,6 @@
 source 'https://rubygems.org'
-ruby "2.1.2"
-<<<<<<< HEAD
-#test feature
-#testing
-#THIS IS A NEW FEATURE
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-#testing
-=======
-#test feature
->>>>>>> Test
-=======
-#test feature
-#testing
-<<<<<<< HEAD
+ruby "2.1.2"<<<<<<< HEAD
 
->>>>>>> asdf
-=======
-#THIS IS A NEW FEATURE
->>>>>>> Made a new feature
->>>>>>> Feature_To_Add
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.1'
 
