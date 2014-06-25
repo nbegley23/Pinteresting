@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 ruby "2.1.2"
+<<<<<<< HEAD
 #test feature
+=======
+#testing
+>>>>>>> 0a5c3c0cd6d70448be6237676d5b08dd74301030
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.1'
 
