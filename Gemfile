@@ -9,8 +9,12 @@ ruby "2.1.2"
 =======
 #test feature
 #testing
+<<<<<<< HEAD
 
 >>>>>>> asdf
+=======
+#THIS IS A NEW FEATURE
+>>>>>>> Made a new feature
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.1'
 
